@@ -1,0 +1,44 @@
+body{
+    background: rgb(255, 254, 254);
+    text-align: center;
+    font-family:sans-serif;
+}
+
+h1{
+    color: rgb(23, 144, 243);
+}
+
+h2{
+    font-style: italic;
+    color:forestgreen ;
+}
+
+.things{
+    text-align: center;
+    font-weight: bold;
+}
+
+img{
+  
+    border-style:none;
+    border-radius: 50%;
+}
+
+.picture{
+    font-weight: bold;
+}
+
+.context{
+    text-align: left;
+    padding-bottom: 20px;
+}
+
+.footer{
+    text-align: left;
+    color: red;
+}
+
+.link{
+    color: blue;
+    font-style:italic;
+}
